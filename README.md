@@ -16,19 +16,23 @@ Step by Step instructions
 Open your terminal such as Bash.
 
 <h2>Technologies Used</h2>
-
-Javascript
-Nodejs
+<li>
+  <ul>Javascript</ul>
+  <ul>Nodejs</ul>
+  </li>
 Node packages:
-Node-Spotify-API
-Request
-Moment
-DotEnv
+<li>
+  <ul>Node-Spotify-API</ul>
+  <ul>Request</ul>
+  <ul>Moment</ul>
+  <ul>DotEnv</ul>
+</li>
 APIs used:
-Bands in Town
-OMDB
-Git
-GitHub
+  <li>
+  <ul>Bands in Town</ul>
+  <ul>OMDB</ul>
+  <ul>Git</ul>
+  <ul>GitHub</ul>
 
 
 
