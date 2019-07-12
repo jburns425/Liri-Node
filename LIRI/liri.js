@@ -136,18 +136,65 @@ function showConcertInfo(inputParameter){
 }
 
 
-         //function for reading out of random.txt file  
-        function showSomeInfo(){
-	        fs.readFile('random.txt', 'utf8', function(error, data){
-		        if (error){ 
-			    return console.log(error);
-		                }
-        var dataArr = data.split(',');
-        showSongInfo(dataArr[0], dataArr[1]);
-        
-        
-        
-	});
-}
+   //fucntion for the do what i say
+
+   function showSomeInfo()
+   {
+  console.log("------------DO WHAT IT SAYS-----------");
+  fs.readFile("random.txt", "utf8", function (err, data)
+   {
+        if (err)
+             {
+                  return console.log(err);
+             }
+
+        console.log()
+        fs.appendFile("log.txt", "\n" + data, function (err)
+             {
+                  if (err)
+                       {
+                            return console.log(err);
+                       }
+                  else
+                       {
+                            console.log("log.txt was updated");
+             }
+   });
+   data = data.replace(/["']/g, "");
+   data = data.split(/[ ,]+/).join(',')
+
+   dataArr = new Array();
+
+
+   dataArr = data.split(",");
+   
+   process.argv[2] = dataArr[0];
+
+   for (i = 1; i < dataArr.length; i++)
+        {
+             process.argv.push(dataArr[i]);
+        }
+
+  switch (process.argv[2])
+   {
+      case "concert-this":
+              showConcertInfo(process.argv[3]);
+              break;
+
+            case "spotify-this-song":
+              showSongInfo(process.argv[3]);
+              break;
+
+            case "movie-this":
+              showMovieInfo(process.argv[3]);
+              break;
+
+
+
+      }
+   });}
+
+
+
 
 
