@@ -21,18 +21,19 @@ Open your terminal such as Bash.
   <ul>Nodejs</ul>
   </li>
 Node packages:
-<li>
-  <ul>Node-Spotify-API</ul>
-  <ul>Request</ul>
-  <ul>Moment</ul>
-  <ul>DotEnv</ul>
-</li>
+<ul>
+  <li>Node-Spotify-API</li>
+  <li>Request</li>
+  <li>Moment</li>
+  <li>DotEnv</li>
+</ul>
 APIs used:
-  <li>
-  <ul>Bands in Town</ul>
-  <ul>OMDB</ul>
-  <ul>Git</ul>
-  <ul>GitHub</ul>
+  <ul>
+  <li>Bands in Town</li>
+  <li>OMDB</li>
+  <li>Git</li>
+  <li>GitHub</li>
+  </ul>
 
 
 
