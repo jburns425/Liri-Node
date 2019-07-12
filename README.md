@@ -16,10 +16,10 @@ Step by Step instructions
 Open your terminal such as Bash.
 
 <h2>Technologies Used</h2>
-<li>
-  <ul>Javascript</ul>
-  <ul>Nodejs</ul>
-  </li>
+<ul>
+  <li>Javascript</li>
+  <li>Nodejs</li>
+  </ul>
 Node packages:
 <ul>
   <li>Node-Spotify-API</li>
