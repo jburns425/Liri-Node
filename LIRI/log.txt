@@ -1,0 +1,501 @@
+----------Even Information----------
+0
+Name of the Venue: Bank of New Hampshire Pavilion
+Venue Location: Gilford
+Date of the Event: 2019-07-17T19:00:38
+------------------------------------------------Even Information----------
+1
+Name of the Venue: Parc Beauséjour
+Venue Location: Rimouski
+Date of the Event: 2019-07-20T20:00:17
+------------------------------------------------Even Information----------
+2
+Name of the Venue: Mississippi Valley Fair
+Venue Location: Davenport
+Date of the Event: 2019-08-03T19:00:00
+------------------------------------------------Even Information----------
+3
+Name of the Venue: Ravinia Festival
+Venue Location: Highland Park
+Date of the Event: 2019-08-13T19:00:39
+------------------------------------------------Even Information----------
+4
+Name of the Venue: Ravinia Festival
+Venue Location: Highland Park
+Date of the Event: 2019-08-14T19:00:59
+------------------------------------------------Even Information----------
+5
+Name of the Venue: Paradise Cove Margaritaville
+Venue Location: Tulsa
+Date of the Event: 2019-08-16T20:00:00
+------------------------------------------------Even Information----------
+6
+Name of the Venue: Choctaw Casino & Resort
+Venue Location: Durant
+Date of the Event: 2019-08-17T20:00:00
+------------------------------------------------Even Information----------
+7
+Name of the Venue: Mohegan Sun Convention Center
+Venue Location: Uncasville
+Date of the Event: 2019-08-22T19:30:00
+------------------------------------------------Even Information----------
+8
+Name of the Venue: Mark G Etess Arena
+Venue Location: Atlantic City
+Date of the Event: 2019-08-24T19:00:39
+------------------------------------------------Even Information----------
+9
+Name of the Venue: Avenir Centre
+Venue Location: Moncton
+Date of the Event: 2019-08-27T19:30:00
+------------------------------------------------Even Information----------
+10
+Name of the Venue: Festival de montgorlfières de Gatineau
+Venue Location: Sainte-therese-de-la-gatineau
+Date of the Event: 2019-08-30T19:30:00
+------------------------------------------------Even Information----------
+11
+Name of the Venue: Itaipava De Som A Sol
+Venue Location: Sao Paulo
+Date of the Event: 2019-10-03T18:00:00
+------------------------------------------------Even Information----------
+12
+Name of the Venue: Rock In Rio Brazil 2019
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-10-06T20:00:00
+------------------------------------------------Even Information----------
+0
+Name of the Venue: Brooklyn Bowl
+Venue Location: Brooklyn
+Date of the Event: 2019-07-14T20:00:00
+-----------------------------------------------Even Information----------
+1
+Name of the Venue: The Cutting Room
+Venue Location: New York
+Date of the Event: 2019-07-27T20:00:00
+-----------------------------------------------Even Information----------
+2
+Name of the Venue: Nordstock Music Festival
+Venue Location: Ottawa
+Date of the Event: 2019-08-09T16:00:00
+-----------------------------------------------Even Information----------
+3
+Name of the Venue: The Plowright Theatre
+Venue Location: Scunthorpe
+Date of the Event: 2020-01-19T19:30:00
+-----------------------------------------------Even Information----------
+0
+Name of the Venue: Brooklyn Bowl
+Venue Location: Brooklyn
+Date of the Event: 2019-07-14T20:00:00
+-----------------------------------------------Even Information----------
+1
+Name of the Venue: The Cutting Room
+Venue Location: New York
+Date of the Event: 2019-07-27T20:00:00
+-----------------------------------------------Even Information----------
+2
+Name of the Venue: Nordstock Music Festival
+Venue Location: Ottawa
+Date of the Event: 2019-08-09T16:00:00
+-----------------------------------------------Even Information----------
+3
+Name of the Venue: The Plowright Theatre
+Venue Location: Scunthorpe
+Date of the Event: 2020-01-19T19:30:00
+-----------------------------------------------Even Information----------
+0
+Name of the Venue: Bank of New Hampshire Pavilion
+Venue Location: Gilford
+Date of the Event: 2019-07-17T19:00:38
+-----------------------------------------------Even Information----------
+1
+Name of the Venue: Parc Beauséjour
+Venue Location: Rimouski
+Date of the Event: 2019-07-20T20:00:17
+-----------------------------------------------Even Information----------
+2
+Name of the Venue: Mississippi Valley Fair
+Venue Location: Davenport
+Date of the Event: 2019-08-03T19:00:00
+-----------------------------------------------Even Information----------
+3
+Name of the Venue: Ravinia Festival
+Venue Location: Highland Park
+Date of the Event: 2019-08-13T19:00:39
+-----------------------------------------------Even Information----------
+4
+Name of the Venue: Ravinia Festival
+Venue Location: Highland Park
+Date of the Event: 2019-08-14T19:00:59
+-----------------------------------------------Even Information----------
+5
+Name of the Venue: Paradise Cove Margaritaville
+Venue Location: Tulsa
+Date of the Event: 2019-08-16T20:00:00
+-----------------------------------------------Even Information----------
+6
+Name of the Venue: Choctaw Casino & Resort
+Venue Location: Durant
+Date of the Event: 2019-08-17T20:00:00
+-----------------------------------------------Even Information----------
+7
+Name of the Venue: Mohegan Sun Convention Center
+Venue Location: Uncasville
+Date of the Event: 2019-08-22T19:30:00
+-----------------------------------------------Even Information----------
+8
+Name of the Venue: Mark G Etess Arena
+Venue Location: Atlantic City
+Date of the Event: 2019-08-24T19:00:39
+-----------------------------------------------Even Information----------
+9
+Name of the Venue: Avenir Centre
+Venue Location: Moncton
+Date of the Event: 2019-08-27T19:30:00
+-----------------------------------------------Even Information----------
+10
+Name of the Venue: Festival de montgorlfières de Gatineau
+Venue Location: Sainte-therese-de-la-gatineau
+Date of the Event: 2019-08-30T19:30:00
+-----------------------------------------------Even Information----------
+11
+Name of the Venue: Itaipava De Som A Sol
+Venue Location: Sao Paulo
+Date of the Event: 2019-10-03T18:00:00
+-----------------------------------------------Even Information----------
+12
+Name of the Venue: Rock In Rio Brazil 2019
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-10-06T20:00:00
+-----------------------------------------------Even Information----------
+0
+Name of the Venue: Brooklyn Bowl
+Venue Location: Brooklyn
+Date of the Event: 2019-07-14T20:00:00
+-----------------------------------------------Even Information----------
+1
+Name of the Venue: The Cutting Room
+Venue Location: New York
+Date of the Event: 2019-07-27T20:00:00
+-----------------------------------------------Even Information----------
+2
+Name of the Venue: Nordstock Music Festival
+Venue Location: Ottawa
+Date of the Event: 2019-08-09T16:00:00
+-----------------------------------------------Even Information----------
+3
+Name of the Venue: The Plowright Theatre
+Venue Location: Scunthorpe
+Date of the Event: 2020-01-19T19:30:00
+-----------------------------------------------Even Information----------
+0
+Name of the Venue: Chat Noir
+Venue Location: Oslo
+Date of the Event: 2020-02-01T16:30:00
+-----------------------------------------------Even Information----------
+1
+Name of the Venue: Chat Noir
+Venue Location: Oslo
+Date of the Event: 2020-02-06T19:00:00
+-----------------------------------------------Even Information----------
+2
+Name of the Venue: Chat Noir
+Venue Location: Oslo
+Date of the Event: 2020-02-13T19:00:00
+-----------------------------------------------Even Information----------
+3
+Name of the Venue: Chat Noir
+Venue Location: Oslo
+Date of the Event: 2020-02-15T16:30:00
+-----------------------------------------------MOVIE INFO----------Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+Rotten Tomatoes Rating: 87%
+NaNUSA, UK
+Language: English, Japanese, French
+Pilot: undefined
+NaNLeonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+------------------------------
+----------MOVIE INFO----------Title: Forrest Gump
+Release Year: 1994
+IMDB Rating: 8.8
+Rotten Tomatoes Rating: 72%
+NaNUSA
+Language: English
+Pilot: undefined
+NaNTom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys
+------------------------------
+--------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+----------MOVIE INFO----------Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+NaNBelgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Pilot: undefined
+NaNJared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+------------------------------
+----------MOVIE INFO----------Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+Rotten Tomatoes Rating: 87%
+NaNUSA, UK
+Language: English, Japanese, French
+Pilot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.
+NaNLeonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+------------------------------
+----------MOVIE INFO----------Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+Rotten Tomatoes Rating: 87%
+NaNUSA, UK
+Language: English, Japanese, French
+Pilot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.
+NaNLeonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+------------------------------
+----------Even Information----------
+0
+Name of the Venue: [ips]
+Venue Location: Berlin-altglienicke
+Date of the Event: 2019-07-08T14:00:00
+-----------------------------------------------Even Information----------
+1
+Name of the Venue: Brooklyn Bowl
+Venue Location: Brooklyn
+Date of the Event: 2019-07-14T20:00:00
+-----------------------------------------------Even Information----------
+2
+Name of the Venue: The Cutting Room
+Venue Location: New York
+Date of the Event: 2019-07-27T20:00:00
+-----------------------------------------------Even Information----------
+3
+Name of the Venue: Nordstock Music Festival
+Venue Location: Ottawa
+Date of the Event: 2019-08-09T16:00:00
+-----------------------------------------------Even Information----------
+4
+Name of the Venue: The Plowright Theatre
+Venue Location: Scunthorpe
+Date of the Event: 2020-01-19T19:30:00
+-----------------------------------------------MOVIE INFO----------Title: Rocketman
+Release Year: 2019
+IMDB Rating: 7.7
+----------MOVIE INFO----------Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+Rotten Tomatoes Rating: 87%
+NaNUSA, UK
+Language: English, Japanese, French
+Pilot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.
+NaNLeonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+------------------------------
+----------MOVIE INFO----------Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+Rotten Tomatoes Rating: 87%
+NaNUSA, UK
+Language: English, Japanese, French
+Pilot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.
+NaNLeonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+------------------------------
+----------Even Information----------
+0
+Name of the Venue: Curacao North Sea Jazz Festival
+Venue Location: Willemstad, Curaçao
+Date of the Event: 2019-08-31T19:00:04
+-----------------------------------------------Even Information----------
+1
+Name of the Venue: Seminole Hard Rock Hotel & Casino - Hollywood, FL
+Venue Location: Hollywood
+Date of the Event: 2019-10-25T20:00:00
+-----------------------------------------------MOVIE INFO----------Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+Rotten Tomatoes Rating: 87%
+NaNUSA, UK
+Language: English, Japanese, French
+Pilot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.
+NaNLeonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+------------------------------
+----------SONG INFO----------
+----------SONG INFO----------
+----------SONG INFO----------
+----------SONG INFO----------
+----------SONG INFO----------
+0----------SONG INFO----------
+----------SONG INFO----------
+----------SONG INFO----------
+----------SONG INFO----------
+----------SONG INFO----------
+----------Even Information----------
+0
+Name of the Venue: Brooklyn Bowl
+Venue Location: Brooklyn
+Date of the Event: 2019-07-14T20:00:00
+-----------------------------------------------Even Information----------
+1
+Name of the Venue: The Cutting Room
+Venue Location: New York
+Date of the Event: 2019-07-27T20:00:00
+-----------------------------------------------Even Information----------
+2
+Name of the Venue: Nordstock Music Festival
+Venue Location: Ottawa
+Date of the Event: 2019-08-09T16:00:00
+-----------------------------------------------Even Information----------
+3
+Name of the Venue: The Plowright Theatre
+Venue Location: Scunthorpe
+Date of the Event: 2020-01-19T19:30:00
+-----------------------------------------------MOVIE INFO----------Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+Rotten Tomatoes Rating: 87%
+NaNUSA, UK
+Language: English, Japanese, French
+Pilot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.
+NaNLeonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+------------------------------
+----------Even Information----------
+0
+Name of the Venue: Brooklyn Bowl
+Venue Location: Brooklyn
+Date of the Event: 2019-07-14T20:00:00
+-----------------------------------------------Even Information----------
+1
+Name of the Venue: The Cutting Room
+Venue Location: New York
+Date of the Event: 2019-07-27T20:00:00
+-----------------------------------------------Even Information----------
+2
+Name of the Venue: Nordstock Music Festival
+Venue Location: Ottawa
+Date of the Event: 2019-08-09T16:00:00
+-----------------------------------------------Even Information----------
+3
+Name of the Venue: The Plowright Theatre
+Venue Location: Scunthorpe
+Date of the Event: 2020-01-19T19:30:00
+-----------------------------------------------MOVIE INFO----------Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+----------MOVIE INFO----------Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+----------MOVIE INFO----------Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+----------MOVIE INFO----------Title: Whiplash
+Release Year: 2014
+IMDB Rating: 8.5
+Rotten Tomatoes Rating: 93%
+NaNUSA
+Language: English
+Pilot: A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.
+NaNMiles Teller, J.K. Simmons, Paul Reiser, Melissa Benoist
+------------------------------
+----------Even Information----------
+0
+Name of the Venue: San Siro Stadium
+Venue Location: Milan
+Date of the Event: 2019-07-12T20:45:00
+-----------------------------------------------Even Information----------
+1
+Name of the Venue: Ippodromo del Galoppo di San Siro
+Venue Location: Milano
+Date of the Event: 2019-07-13T19:00:30
+-----------------------------------------------Even Information----------
+2
+Name of the Venue: Matmut Atlantique
+Venue Location: Bordeaux
+Date of the Event: 2019-07-16T20:00:00
+-----------------------------------------------Even Information----------
+3
+Name of the Venue: Stadio Olimpico
+Venue Location: Rome
+Date of the Event: 2019-07-20T21:00:00
+-----------------------------------------------Even Information----------
+4
+Name of the Venue: Passeio Maritimo de Alges
+Venue Location: Lisbon
+Date of the Event: 2019-07-24T00:00:00
+-----------------------------------------------Even Information----------
+5
+Name of the Venue: Wanda Metropolitano Stadium
+Venue Location: Madrid
+Date of the Event: 2019-07-26T19:00:00
+-----------------------------------------------Even Information----------
+6
+Name of the Venue: Telenor Arena Shuttlebuss
+Venue Location: Oslo
+Date of the Event: 2019-09-07T19:00:00
+-----------------------------------------------Even Information----------
+7
+Name of the Venue: Royal Arena
+Venue Location: København S
+Date of the Event: 2019-09-08T20:00:00
+-----------------------------------------------Even Information----------
+8
+Name of the Venue: Mercedes-Benz Arena
+Venue Location: Berlin
+Date of the Event: 2019-09-10T20:00:00
+-----------------------------------------------Even Information----------
+9
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-09-12T20:00:00
+-----------------------------------------------Even Information----------
+10
+Name of the Venue: The O2
+Venue Location: London
+Date of the Event: 2019-09-14T00:00:00
+-----------------------------------------------Even Information----------
+11
+Name of the Venue: The O2
+Venue Location: London
+Date of the Event: 2019-09-15T00:00:00
+-----------------------------------------------Even Information----------
+12
+Name of the Venue: Arena Birmingham
+Venue Location: Birmingham
+Date of the Event: 2019-09-17T00:00:00
+-----------------------------------------------Even Information----------
+13
+Name of the Venue: The Formula 1 Singapore Grand Prix
+Venue Location: Singapore
+Date of the Event: 2019-09-21T19:00:08
+-----------------------------------------------Even Information----------
+14
+Name of the Venue: Foro Sol
+Venue Location: Mexico City
+Date of the Event: 2019-10-02T20:30:12
+-----------------------------------------------Even Information----------
+15
+Name of the Venue: Foro Sol
+Venue Location: Mexico City
+Date of the Event: 2019-10-03T20:30:32
+-----------------------------------------------Even Information----------
+16
+Name of the Venue: Rock in Rio Brasil [9.27 - 9.29 / 10.3 - 10.6]
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-10-06T19:00:56
+-----------------------------------------------Even Information----------
+17
+Name of the Venue: Allianz Parque
+Venue Location: Sao Paulo
+Date of the Event: 2019-10-09T19:00:00
+-----------------------------------------------Even Information----------
+18
+Name of the Venue: Pista Atletica
+Venue Location: Santiago
+Date of the Event: 2019-10-13T19:00:57
+-----------------------------------------------Even Information----------
+19
+Name of the Venue: JOCKEY CLUB - LA PELOUSSE
+Venue Location: Lima
+Date of the Event: 2019-10-15T21:00:00
+-------------------------------------
